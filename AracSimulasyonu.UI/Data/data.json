@@ -1,0 +1,37 @@
+[
+  {
+    "AracModel": "BMW 320i",
+    "GunSayisi": 7,
+    "ToplamUcret": 9450.0
+  },
+  {
+    "AracModel": "Jeep Wrangler",
+    "GunSayisi": 61,
+    "ToplamUcret": 109800.0
+  },
+  {
+    "AracModel": "Ford F-150",
+    "GunSayisi": 5,
+    "ToplamUcret": 11250.0
+  },
+  {
+    "AracModel": "Mercedes C Coupe",
+    "GunSayisi": 5,
+    "ToplamUcret": 8100.0
+  },
+  {
+    "AracModel": "Volvo V60",
+    "GunSayisi": 3,
+    "ToplamUcret": 4800
+  },
+  {
+    "AracModel": "Ford Focus",
+    "GunSayisi": 5,
+    "ToplamUcret": 4500.0
+  },
+  {
+    "AracModel": "Mazda MX-5",
+    "GunSayisi": 15,
+    "ToplamUcret": 29700.0
+  }
+]
